@@ -25,3 +25,8 @@ Type your note in the input area.
 Click the "Save Note" button.
 
 The note will appear under "Your Notes" section.
+
+## 📷 Screenshot
+![Note Taking App](note-taking-app.PNG)
+
+
